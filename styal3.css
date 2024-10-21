@@ -1,0 +1,16 @@
+div{
+    background-color: brown;
+}
+#ss{
+    background-color: violet;
+    color: blueviolet;
+}
+a:active{
+    background-color: blueviolet;
+}
+a:link{
+     color: seagreen;
+}
+a:hover{
+    background-color: yellow;
+}
